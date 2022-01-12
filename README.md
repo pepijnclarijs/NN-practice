@@ -1,2 +1,2 @@
 # NN-practice
-Practice environment for dealing with neural networks
+Practice environment for dealing with neural networks!
